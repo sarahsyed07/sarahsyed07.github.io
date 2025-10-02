@@ -13,6 +13,10 @@ platforms:
   - type: Telegram
     icon: "fab fa-telegram"
     link: "https://t.me/share/url?url=URL&text=TITLE"
+  
+  - type: Linkedin
+    icon: "fab fa-linkedin"
+    link: "www.linkedin.com/in/sarah-syed-9105251a2"
 
   # Uncomment below if you need to.
   #
