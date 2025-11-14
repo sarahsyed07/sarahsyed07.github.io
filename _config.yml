@@ -14,9 +14,10 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "Sarah's Website" # the main title
+title: "Sarah Syed" # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: "A detailed cybersecurity portfolio showcasing my journey through studying digital forensics and cybersecurity at the University at Albany (SUNY)" 
+# it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   "A minimal, responsive and feature-rich Jekyll theme for technical writing."
