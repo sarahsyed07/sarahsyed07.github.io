@@ -7,12 +7,11 @@ tags: [dfa, wicys]
 description: "This is my first post to my website"
 ---
 <p align="center">
-  <img src="assets/ualbany.dfa.png" alt="DFA and WiCyS are the best!" width="700">
+  <img src="/assets/ualbany.dfa.png" alt="DFA and WiCyS are the best!" width="700">
 </p>
 
 ## Summary
 This post was created for a DFA and WiCyS technical workshop
-
 ## Content
 Welcome to my website!
 <details>
