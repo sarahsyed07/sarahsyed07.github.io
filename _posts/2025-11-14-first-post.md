@@ -12,6 +12,7 @@ description: "This is my first post to my website"
 
 ## Summary
 This post was created for a DFA and WiCyS technical workshop
+
 ## Content
 Welcome to my website!
 <details>
